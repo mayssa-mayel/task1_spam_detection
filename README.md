@@ -1,2 +1,2 @@
 # task1_spam_detection
-task1_spam_detection
+This project is a spam classification system implemented using the Naive Bayes algorithm. It aims to classify text messages as spam or non-spam (ham) based on their content. The Multinomial Naive Bayes classifier from the scikit-learn library is used for model training. The project involves feature extraction by transforming text messages into numerical arrays using CountVectorizer. The dataset is sourced from a CSV file and is split into training and testing sets for model evaluation. The accuracy of the trained model on the test data is calculated to assess its performance. The project is written in Python and utilizes libraries such as pandas and scikit-learn.
